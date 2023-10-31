@@ -1,0 +1,26 @@
+/* Isto é um seletor css ALT+Shift A */
+p{
+    color: blue;
+    font-size: 20px;
+}
+
+ {}
+
+.p1 p{ 
+    color:red;
+    font-size: 30px;
+    background-color: darkblue;
+
+
+}
+
+.p2 p{
+    color: yellow;
+    background-color:darkred
+    font-size: 40px;
+}
+.primeiro{
+    color: blueviolet;
+    font-size: 50px;
+}
+}
